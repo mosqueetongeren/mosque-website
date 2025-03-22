@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mosque website providing prayer times, events, and community services.">
+    <title>Welcome to Our Mosque</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Our Mosque</h1>
+            <p>Welcome to the heart of our community</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Our Mosque - A Place of Peace and Community</h2>
+        <p>Join us for daily prayers, events, and community gatherings.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Our mosque is a center of peace, prayer, and community outreach. We provide spiritual guidance and support to Muslims of all ages.</p>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Daily Prayers</li>
+            <li>Friday Jummah</li>
+            <li>Community Outreach</li>
+            <li>Educational Classes</li>
+        </ul>
+    </section>
+
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        <ul>
+            <li>Community Iftar - April 10, 2025</li>
+            <li>Charity Fundraiser - May 5, 2025</li>
+            <li>Weekly Quran Classes - Every Monday</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to reach out to us:</p>
+        <address>
+            <strong>Email:</strong> contact@mosque.com<br>
+            <strong>Phone:</strong> +123 456 7890
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Our Mosque. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
